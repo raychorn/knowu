@@ -4,6 +4,7 @@ knowu
 Programming Test for KnowU
 ==========================
 
+See the live django app here --> http://djangononrelsample2.appspot.com
 
 QUESTION #1
 ===========
